@@ -1,1 +1,2 @@
-The Odin Project Ruby Project
+The Odin Project Ruby Project #1:
+Caesar Cipher
